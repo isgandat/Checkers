@@ -1,0 +1,322 @@
+﻿2023-09-03 01:40:11.127 C:\Users\shubh\Desktop\code\5\CheckersMinimax-master\CheckersMinimax-master\CheckersMinimax\bin\Debug\CheckersMinimax_03-09-2023.log is created.
+2023-09-03 01:40:22.240 [INFO]    Row: 5 Column: 0
+2023-09-03 01:40:22.670 [INFO]    Row: 4 Column: 1
+2023-09-03 01:40:22.671 [INFO]    Piece1 5, 0
+2023-09-03 01:40:22.672 [INFO]    Piece2 4, 1
+2023-09-03 01:40:22.680 [INFO]    Max is Black
+2023-09-03 01:40:22.694 [INFO]    Evaluating Node number: 1 - Score: -3
+2023-09-03 01:40:22.809 [INFO]    Node Values: 18,19,16,19,17,18,17
+2023-09-03 01:40:22.809 [INFO]    Piece1 2, 3
+2023-09-03 01:40:22.810 [INFO]    Piece2 3, 2
+2023-09-03 01:40:28.708 [INFO]    Row: 4 Column: 1
+2023-09-03 01:40:29.776 [INFO]    Row: 2 Column: 3
+2023-09-03 01:40:29.777 [INFO]    Piece1 4, 1
+2023-09-03 01:40:29.777 [INFO]    Piece2 2, 3
+2023-09-03 01:40:29.796 [INFO]    Max is Black
+2023-09-03 01:40:29.797 [INFO]    Evaluating Node number: 1 - Score: -2
+2023-09-03 01:40:29.840 [INFO]    Node Values: 1,20
+2023-09-03 01:40:29.841 [INFO]    Piece1 1, 4
+2023-09-03 01:40:29.841 [INFO]    Piece2 3, 2
+2023-09-03 01:40:34.423 [INFO]    Row: 5 Column: 6
+2023-09-03 01:40:35.316 [INFO]    Row: 4 Column: 5
+2023-09-03 01:40:35.316 [INFO]    Piece1 5, 6
+2023-09-03 01:40:35.317 [INFO]    Piece2 4, 5
+2023-09-03 01:40:35.320 [INFO]    Max is Black
+2023-09-03 01:40:35.322 [INFO]    Evaluating Node number: 1 - Score: 18
+2023-09-03 01:40:35.496 [INFO]    Node Values: 37,37,37,21,20,1,3,18,20
+2023-09-03 01:40:35.497 [INFO]    Piece1 1, 2
+2023-09-03 01:40:35.497 [INFO]    Piece2 2, 3
+2023-09-03 01:40:37.552 [INFO]    Row: 5 Column: 4
+2023-09-03 01:40:38.613 [INFO]    Row: 4 Column: 3
+2023-09-03 01:40:38.614 [INFO]    Piece1 5, 4
+2023-09-03 01:40:38.614 [INFO]    Piece2 4, 3
+2023-09-03 01:40:38.623 [INFO]    Max is Black
+2023-09-03 01:40:38.625 [INFO]    Evaluating Node number: 1 - Score: -5
+2023-09-03 01:40:38.655 [INFO]    Node Values: 18
+2023-09-03 01:40:38.655 [INFO]    Piece1 3, 2
+2023-09-03 01:40:38.656 [INFO]    Piece2 5, 4
+2023-09-03 14:28:41.768 [INFO]    Row: 5 Column: 0
+2023-09-03 14:28:42.782 [INFO]    Row: 4 Column: 1
+2023-09-03 14:28:42.784 [INFO]    Piece1 5, 0
+2023-09-03 14:28:42.785 [INFO]    Piece2 4, 1
+2023-09-03 14:28:42.789 [INFO]    Max is Black
+2023-09-03 14:28:42.796 [INFO]    Evaluating Node number: 1 - Score: -3
+2023-09-03 14:28:42.850 [INFO]    Node Values: 18,19,16,19,17,18,17
+2023-09-03 14:28:42.850 [INFO]    Piece1 2, 1
+2023-09-03 14:28:42.850 [INFO]    Piece2 3, 0
+2023-09-03 14:28:46.268 [INFO]    Row: 4 Column: 1
+2023-09-03 14:28:47.446 [INFO]    Row: 3 Column: 2
+2023-09-03 14:28:47.446 [INFO]    Piece1 4, 1
+2023-09-03 14:28:47.446 [INFO]    Piece2 3, 2
+2023-09-03 14:28:47.449 [INFO]    Max is Black
+2023-09-03 14:28:47.450 [INFO]    Evaluating Node number: 1 - Score: 0
+2023-09-03 14:28:47.468 [INFO]    Node Values: 36
+2023-09-03 14:28:47.468 [INFO]    Piece1 2, 3
+2023-09-03 14:28:47.468 [INFO]    Piece2 4, 1
+2023-09-03 14:28:49.774 [INFO]    Row: 5 Column: 2
+2023-09-03 14:28:50.630 [INFO]    Row: 4 Column: 3
+2023-09-03 14:28:50.631 [INFO]    Piece1 5, 2
+2023-09-03 14:28:50.631 [INFO]    Piece2 4, 3
+2023-09-03 14:28:50.633 [INFO]    Max is Black
+2023-09-03 14:28:50.634 [INFO]    Evaluating Node number: 1 - Score: -12
+2023-09-03 14:28:50.691 [INFO]    Node Values: 0,36,34,20,36,37,36,-1,36
+2023-09-03 14:28:50.691 [INFO]    Piece1 2, 5
+2023-09-03 14:28:50.691 [INFO]    Piece2 3, 4
+2023-09-03 14:33:39.140 [INFO]    Row: 5 Column: 2
+2023-09-03 14:33:42.002 [INFO]    Row: 4 Column: 3
+2023-09-03 14:33:42.004 [INFO]    Piece1 5, 2
+2023-09-03 14:33:42.004 [INFO]    Piece2 4, 3
+2023-09-03 14:33:42.008 [INFO]    Max is Black
+2023-09-03 14:33:42.015 [INFO]    Evaluating Node number: 1 - Score: 16
+2023-09-03 14:33:42.041 [INFO]    Node Values: 17,16,18,34,18,19,17
+2023-09-03 14:33:42.041 [INFO]    Piece1 2, 3
+2023-09-03 14:33:42.041 [INFO]    Piece2 3, 2
+2023-09-03 14:33:54.863 [INFO]    Row: 5 Column: 6
+2023-09-03 14:33:57.246 [INFO]    Row: 4 Column: 5
+2023-09-03 14:33:57.246 [INFO]    Piece1 5, 6
+2023-09-03 14:33:57.247 [INFO]    Piece2 4, 5
+2023-09-03 14:33:57.248 [INFO]    Max is Black
+2023-09-03 14:33:57.250 [INFO]    Evaluating Node number: 1 - Score: 17
+2023-09-03 14:33:57.292 [INFO]    Node Values: 17,17,36,20,19,3,16
+2023-09-03 14:33:57.292 [INFO]    Piece1 2, 1
+2023-09-03 14:33:57.292 [INFO]    Piece2 3, 0
+2023-09-03 14:34:18.015 [INFO]    Row: 4 Column: 3
+2023-09-03 14:34:21.678 [INFO]    Row: 4 Column: 3
+2023-09-03 14:34:21.678 [INFO]    Piece1 4, 3
+2023-09-03 14:34:21.679 [INFO]    Piece2 4, 3
+2023-09-03 14:34:26.079 [INFO]    Row: 4 Column: 3
+2023-09-03 14:34:27.121 [INFO]    Row: 4 Column: 3
+2023-09-03 14:34:27.122 [INFO]    Piece1 4, 3
+2023-09-03 14:34:27.122 [INFO]    Piece2 4, 3
+2023-09-03 14:34:34.655 [INFO]    Row: 4 Column: 3
+2023-09-03 14:34:35.291 [INFO]    Row: 2 Column: 1
+2023-09-03 14:34:35.291 [INFO]    Piece1 4, 3
+2023-09-03 14:34:35.291 [INFO]    Piece2 2, 1
+2023-09-03 14:34:35.293 [INFO]    Max is Black
+2023-09-03 14:34:35.295 [INFO]    Evaluating Node number: 1 - Score: 18
+2023-09-03 14:34:35.298 [INFO]    Node Values: 36
+2023-09-03 14:34:35.298 [INFO]    Piece1 1, 0
+2023-09-03 14:34:35.302 [INFO]    Piece2 3, 2
+2023-09-03 14:34:44.800 [INFO]    Row: 5 Column: 4
+2023-09-03 14:34:46.307 [INFO]    Row: 5 Column: 4
+2023-09-03 14:34:46.307 [INFO]    Piece1 5, 4
+2023-09-03 14:34:46.307 [INFO]    Piece2 5, 4
+2023-09-03 14:34:47.347 [INFO]    Row: 4 Column: 5
+2023-09-03 14:34:48.878 [INFO]    Row: 4 Column: 5
+2023-09-03 14:34:48.878 [INFO]    Piece1 4, 5
+2023-09-03 14:34:48.878 [INFO]    Piece2 4, 5
+2023-09-03 14:34:49.743 [INFO]    Row: 6 Column: 7
+2023-09-03 14:34:50.859 [INFO]    Row: 5 Column: 6
+2023-09-03 14:34:50.859 [INFO]    Piece1 6, 7
+2023-09-03 14:34:50.860 [INFO]    Piece2 5, 6
+2023-09-03 14:34:50.862 [INFO]    Max is Black
+2023-09-03 14:34:50.864 [INFO]    Evaluating Node number: 1 - Score: 18
+2023-09-03 14:34:50.968 [INFO]    Node Values: 52,53,52,53,37,18,2,54,37,37
+2023-09-03 14:34:50.968 [INFO]    Piece1 3, 0
+2023-09-03 14:34:50.968 [INFO]    Piece2 4, 1
+2023-09-03 14:34:55.582 [INFO]    Row: 6 Column: 3
+2023-09-03 14:34:57.382 [INFO]    Row: 5 Column: 2
+2023-09-03 14:34:57.383 [INFO]    Piece1 6, 3
+2023-09-03 14:34:57.383 [INFO]    Piece2 5, 2
+2023-09-03 14:34:57.385 [INFO]    Max is Black
+2023-09-03 14:34:57.386 [INFO]    Evaluating Node number: 1 - Score: 32
+2023-09-03 14:34:57.414 [INFO]    Node Values: 49
+2023-09-03 14:34:57.414 [INFO]    Piece1 4, 1
+2023-09-03 14:34:57.414 [INFO]    Piece2 6, 3
+2023-09-03 14:35:00.547 [INFO]    Row: 7 Column: 4
+2023-09-03 14:35:01.507 [INFO]    Row: 5 Column: 2
+2023-09-03 14:35:01.507 [INFO]    Piece1 7, 4
+2023-09-03 14:35:01.508 [INFO]    Piece2 5, 2
+2023-09-03 14:35:01.509 [INFO]    Max is Black
+2023-09-03 14:35:01.511 [INFO]    Evaluating Node number: 1 - Score: 32
+2023-09-03 14:35:01.578 [INFO]    Node Values: 57,57,57,57,33,14,-3,-4,33
+2023-09-03 14:35:01.578 [INFO]    Piece1 1, 4
+2023-09-03 14:35:01.578 [INFO]    Piece2 2, 3
+2023-09-03 14:35:13.363 [INFO]    Row: 7 Column: 6
+2023-09-03 14:35:15.020 [INFO]    Row: 7 Column: 6
+2023-09-03 14:35:15.020 [INFO]    Piece1 7, 6
+2023-09-03 14:35:15.020 [INFO]    Piece2 7, 6
+2023-09-03 14:35:15.855 [INFO]    Row: 7 Column: 2
+2023-09-03 14:35:16.863 [INFO]    Row: 6 Column: 3
+2023-09-03 14:35:16.864 [INFO]    Piece1 7, 2
+2023-09-03 14:35:16.864 [INFO]    Piece2 6, 3
+2023-09-03 14:35:16.866 [INFO]    Max is Black
+2023-09-03 14:35:16.867 [INFO]    Evaluating Node number: 1 - Score: 58
+2023-09-03 14:35:16.910 [INFO]    Node Values: 77,77,77,76,89,77,120,70,17,17
+2023-09-03 14:35:16.910 [INFO]    Piece1 2, 5
+2023-09-03 14:35:16.910 [INFO]    Piece2 3, 4
+2023-09-03 14:35:34.287 [INFO]    Row: 7 Column: 6
+2023-09-03 14:35:35.499 [INFO]    Row: 6 Column: 7
+2023-09-03 14:35:35.499 [INFO]    Piece1 7, 6
+2023-09-03 14:35:35.500 [INFO]    Piece2 6, 7
+2023-09-03 14:35:35.501 [INFO]    Max is Black
+2023-09-03 14:35:35.503 [INFO]    Evaluating Node number: 1 - Score: -5
+2023-09-03 14:35:35.569 [INFO]    Node Values: -1,14,14,-1,105,70,-1,29,-1
+2023-09-03 14:35:35.569 [INFO]    Piece1 1, 6
+2023-09-03 14:35:35.569 [INFO]    Piece2 2, 5
+2023-09-03 14:36:38.707 [INFO]    Row: 4 Column: 5
+2023-09-03 14:36:40.855 [INFO]    Row: 4 Column: 5
+2023-09-03 14:36:40.855 [INFO]    Piece1 4, 5
+2023-09-03 14:36:40.856 [INFO]    Piece2 4, 5
+2023-09-03 14:36:41.459 [INFO]    Row: 5 Column: 6
+2023-09-03 14:36:46.811 [INFO]    Row: 4 Column: 7
+2023-09-03 14:36:46.811 [INFO]    Piece1 5, 6
+2023-09-03 14:36:46.812 [INFO]    Piece2 4, 7
+2023-09-03 14:36:46.814 [INFO]    Max is Black
+2023-09-03 14:36:46.816 [INFO]    Evaluating Node number: 1 - Score: 133
+2023-09-03 14:36:46.817 [INFO]    Node Values: 133
+2023-09-03 14:36:46.817 [INFO]    Piece1 3, 4
+2023-09-03 14:36:46.817 [INFO]    Piece2 5, 6
+2023-09-03 14:36:47.821 [INFO]    Piece1 5, 6
+2023-09-03 14:36:47.821 [INFO]    Piece2 7, 4
+2023-09-03 14:36:54.388 [INFO]    Row: 5 Column: 4
+2023-09-03 14:36:59.985 [INFO]    Row: 4 Column: 3
+2023-09-03 14:36:59.985 [INFO]    Piece1 5, 4
+2023-09-03 14:36:59.985 [INFO]    Piece2 4, 3
+2023-09-03 14:36:59.987 [INFO]    Max is Black
+2023-09-03 14:36:59.988 [INFO]    Evaluating Node number: 1 - Score: 148
+2023-09-03 14:36:59.989 [INFO]    Node Values: 148
+2023-09-03 14:36:59.989 [INFO]    Piece1 3, 2
+2023-09-03 14:36:59.989 [INFO]    Piece2 5, 4
+2023-09-03 14:37:00.993 [INFO]    Piece1 5, 4
+2023-09-03 14:37:00.993 [INFO]    Piece2 7, 2
+2023-09-03 14:37:07.522 [INFO]    Row: 5 Column: 4
+2023-09-03 14:37:09.650 [INFO]    Row: 5 Column: 4
+2023-09-03 14:37:09.650 [INFO]    Piece1 5, 4
+2023-09-03 14:37:09.650 [INFO]    Piece2 5, 4
+2023-09-03 14:37:12.674 [INFO]    Row: 5 Column: 2
+2023-09-03 14:37:13.292 [INFO]    Row: 5 Column: 2
+2023-09-03 14:37:13.292 [INFO]    Piece1 5, 2
+2023-09-03 14:37:13.293 [INFO]    Piece2 5, 2
+2023-09-03 14:37:17.635 [INFO]    Row: 6 Column: 7
+2023-09-03 14:37:18.524 [INFO]    Row: 6 Column: 7
+2023-09-03 14:37:18.524 [INFO]    Piece1 6, 7
+2023-09-03 14:37:18.525 [INFO]    Piece2 6, 7
+2023-09-03 14:37:21.355 [INFO]    Row: 6 Column: 7
+2023-09-03 14:37:21.755 [INFO]    Row: 5 Column: 6
+2023-09-03 14:37:21.756 [INFO]    Piece1 6, 7
+2023-09-03 14:37:21.756 [INFO]    Piece2 5, 6
+2023-09-03 14:37:21.758 [INFO]    Max is Black
+2023-09-03 14:37:21.760 [INFO]    Evaluating Node number: 1 - Score: 166
+2023-09-03 14:37:21.820 [INFO]    Node Values: 166,166,166,166,166,166,167,151,118,167,114,155,165,165
+2023-09-03 14:37:21.820 [INFO]    Piece1 2, 5
+2023-09-03 14:37:21.820 [INFO]    Piece2 3, 4
+2023-09-03 14:37:25.304 [INFO]    Row: 5 Column: 0
+2023-09-03 14:37:26.411 [INFO]    Row: 4 Column: 1
+2023-09-03 14:37:26.412 [INFO]    Piece1 5, 0
+2023-09-03 14:37:26.412 [INFO]    Piece2 4, 1
+2023-09-03 14:37:26.414 [INFO]    Max is Black
+2023-09-03 14:37:26.415 [INFO]    Evaluating Node number: 1 - Score: 166
+2023-09-03 14:37:26.418 [INFO]    Node Values: 2147483647
+2023-09-03 14:37:26.419 [INFO]    Piece1 7, 2
+2023-09-03 14:37:26.419 [INFO]    Piece2 5, 0
+2023-09-03 14:37:27.421 [INFO]    Piece1 5, 0
+2023-09-03 14:37:27.421 [INFO]    Piece2 3, 2
+2023-09-03 14:37:33.034 [INFO]    Row: 5 Column: 2
+2023-09-03 14:37:34.007 [INFO]    Row: 4 Column: 1
+2023-09-03 14:37:34.007 [INFO]    Piece1 5, 2
+2023-09-03 14:37:34.008 [INFO]    Piece2 4, 1
+2023-09-03 14:37:34.010 [INFO]    Max is Black
+2023-09-03 14:37:34.011 [INFO]    Evaluating Node number: 1 - Score: 2147483647
+2023-09-03 14:37:34.011 [INFO]    Node Values: 2147483647
+2023-09-03 14:37:34.011 [INFO]    Piece1 3, 2
+2023-09-03 14:37:34.012 [INFO]    Piece2 5, 0
+2023-09-03 14:37:37.940 [INFO]    Row: 7 Column: 0
+2023-09-03 14:37:38.603 [INFO]    Row: 6 Column: 1
+2023-09-03 14:37:38.604 [INFO]    Piece1 7, 0
+2023-09-03 14:37:38.604 [INFO]    Piece2 6, 1
+2023-09-03 14:37:38.607 [INFO]    Max is Black
+2023-09-03 14:37:38.608 [INFO]    Evaluating Node number: 1 - Score: 2147483647
+2023-09-03 14:37:38.608 [INFO]    Node Values: 2147483647
+2023-09-03 14:37:38.608 [INFO]    Piece1 5, 0
+2023-09-03 14:37:38.608 [INFO]    Piece2 7, 2
+2023-09-03 14:37:40.767 [INFO]    Row: 5 Column: 6
+2023-09-03 14:37:42.379 [INFO]    Row: 4 Column: 5
+2023-09-03 14:37:42.380 [INFO]    Piece1 5, 6
+2023-09-03 14:37:42.380 [INFO]    Piece2 4, 5
+2023-09-03 14:37:42.383 [INFO]    Max is Black
+2023-09-03 14:37:42.383 [INFO]    Evaluating Node number: 1 - Score: 2147483647
+2023-09-03 14:37:42.384 [INFO]    Node Values: 2147483647
+2023-09-03 14:37:42.384 [INFO]    Piece1 3, 4
+2023-09-03 14:37:42.384 [INFO]    Piece2 5, 6
+2023-09-03 14:37:43.343 [INFO]    Row: 4 Column: 7
+2023-09-03 14:37:44.019 [INFO]    Row: 3 Column: 6
+2023-09-03 14:37:44.019 [INFO]    Piece1 4, 7
+2023-09-03 14:37:44.020 [INFO]    Piece2 3, 6
+2023-09-03 14:37:44.022 [INFO]    Max is Black
+2023-09-03 14:37:44.023 [INFO]    Evaluating Node number: 1 - Score: 2147483647
+2023-09-03 14:37:44.023 [INFO]    Node Values: 2147483647
+2023-09-03 14:37:44.023 [INFO]    Piece1 2, 7
+2023-09-03 14:37:44.023 [INFO]    Piece2 4, 5
+2023-09-03 14:47:17.912 [INFO]    Row: 5 Column: 2
+2023-09-03 14:47:18.399 [INFO]    Row: 4 Column: 1
+2023-09-03 14:47:18.401 [INFO]    Piece1 5, 2
+2023-09-03 14:47:18.401 [INFO]    Piece2 4, 1
+2023-09-03 14:47:18.405 [INFO]    Max is Black
+2023-09-03 14:47:18.410 [INFO]    Evaluating Node number: 1 - Score: 14
+2023-09-03 14:47:18.447 [INFO]    Node Values: 35,18,18,19,-2,-1,-2
+2023-09-03 14:47:18.447 [INFO]    Piece1 2, 1
+2023-09-03 14:47:18.447 [INFO]    Piece2 3, 2
+2023-09-03 14:49:44.592 [INFO]    Row: 5 Column: 2
+2023-09-03 14:49:45.195 [INFO]    Row: 4 Column: 1
+2023-09-03 14:49:45.195 [INFO]    Piece1 5, 2
+2023-09-03 14:49:45.195 [INFO]    Piece2 4, 1
+2023-09-03 14:49:45.211 [INFO]    Max is Black
+2023-09-03 14:49:45.211 [INFO]    Evaluating Node number: 1 - Score: 14
+2023-09-03 14:49:45.242 [INFO]    Node Values: 35,18,18,19,-2,-1,-2
+2023-09-03 14:49:45.242 [INFO]    Piece1 2, 1
+2023-09-03 14:49:45.242 [INFO]    Piece2 3, 2
+2023-09-03 14:49:48.035 [INFO]    Row: 4 Column: 1
+2023-09-03 14:49:48.564 [INFO]    Row: 3 Column: 0
+2023-09-03 14:49:48.564 [INFO]    Piece1 4, 1
+2023-09-03 14:49:48.565 [INFO]    Piece2 3, 0
+2023-09-03 14:49:48.568 [INFO]    Max is Black
+2023-09-03 14:49:48.569 [INFO]    Evaluating Node number: 1 - Score: 34
+2023-09-03 14:49:48.590 [INFO]    Node Values: 34,19,33,33,34,33,4,18
+2023-09-03 14:49:48.590 [INFO]    Piece1 1, 0
+2023-09-03 14:49:48.590 [INFO]    Piece2 2, 1
+2023-09-03 14:49:51.403 [INFO]    Row: 5 Column: 6
+2023-09-03 14:49:51.750 [INFO]    Row: 4 Column: 7
+2023-09-03 14:49:51.751 [INFO]    Piece1 5, 6
+2023-09-03 14:49:51.751 [INFO]    Piece2 4, 7
+2023-09-03 14:49:51.752 [INFO]    Max is Black
+2023-09-03 14:49:51.754 [INFO]    Evaluating Node number: 1 - Score: 33
+2023-09-03 14:49:51.777 [INFO]    Node Values: 34,34,16,17,14,0,1
+2023-09-03 14:49:51.777 [INFO]    Piece1 2, 3
+2023-09-03 14:49:51.777 [INFO]    Piece2 3, 4
+2023-09-03 14:49:54.321 [INFO]    Row: 4 Column: 7
+2023-09-03 14:49:55.123 [INFO]    Row: 3 Column: 6
+2023-09-03 14:49:55.123 [INFO]    Piece1 4, 7
+2023-09-03 14:49:55.124 [INFO]    Piece2 3, 6
+2023-09-03 14:49:55.126 [INFO]    Max is Black
+2023-09-03 14:49:55.127 [INFO]    Evaluating Node number: 1 - Score: 31
+2023-09-03 14:49:55.132 [INFO]    Node Values: 31,34
+2023-09-03 14:49:55.132 [INFO]    Piece1 2, 7
+2023-09-03 14:49:55.133 [INFO]    Piece2 4, 5
+2023-09-03 14:50:04.321 [INFO]    Row: 5 Column: 4
+2023-09-03 14:50:05.875 [INFO]    Row: 3 Column: 6
+2023-09-03 14:50:05.875 [INFO]    Piece1 5, 4
+2023-09-03 14:50:05.875 [INFO]    Piece2 3, 6
+2023-09-03 14:50:05.878 [INFO]    Max is Black
+2023-09-03 14:50:05.879 [INFO]    Evaluating Node number: 1 - Score: 32
+2023-09-03 14:50:05.888 [INFO]    Node Values: 51
+2023-09-03 14:50:05.889 [INFO]    Piece1 2, 5
+2023-09-03 14:50:05.889 [INFO]    Piece2 4, 7
+2023-09-03 14:50:19.250 [INFO]    Row: 6 Column: 7
+2023-09-03 14:50:20.403 [INFO]    Row: 5 Column: 6
+2023-09-03 14:50:20.404 [INFO]    Piece1 6, 7
+2023-09-03 14:50:20.404 [INFO]    Piece2 5, 6
+2023-09-03 14:50:20.406 [INFO]    Max is Black
+2023-09-03 14:50:20.408 [INFO]    Evaluating Node number: 1 - Score: 34
+2023-09-03 14:50:20.504 [INFO]    Node Values: 51,55,51,51,51,51,51,18,35,53
+2023-09-03 14:50:20.504 [INFO]    Piece1 1, 2
+2023-09-03 14:50:20.504 [INFO]    Piece2 2, 3
+2023-09-03 15:03:00.953 [INFO]    Row: 5 Column: 4
+2023-09-03 15:03:01.433 [INFO]    Row: 4 Column: 3
+2023-09-03 15:03:01.435 [INFO]    Piece1 5, 4
+2023-09-03 15:03:01.435 [INFO]    Piece2 4, 3
+2023-09-03 15:03:01.441 [INFO]    Max is Black
+2023-09-03 15:03:01.446 [INFO]    Evaluating Node number: 1 - Score: 16
+2023-09-03 15:03:01.498 [INFO]    Node Values: 19,-2,17,18,18,19,-1
+2023-09-03 15:03:01.498 [INFO]    Piece1 2, 1
+2023-09-03 15:03:01.498 [INFO]    Piece2 3, 2
